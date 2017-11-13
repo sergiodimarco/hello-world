@@ -10,4 +10,4 @@ Commit by Eclipse.
 
 I'll add an image.
 
-![image](resources)
+![image](resources/fpgb.png)
